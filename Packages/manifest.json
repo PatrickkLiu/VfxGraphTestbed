@@ -11,6 +11,8 @@
   "dependencies": {
     "com.unity.render-pipelines.high-definition": "11.0.0",
     "com.unity.timeline": "1.5.2",
+    "com.unity.xr.management": "4.1.0",
+    "com.unity.xr.oculus": "1.8.1",
     "jp.keijiro.kino.post-processing": "2.1.15",
     "jp.keijiro.klak.motion": "1.0.1",
     "jp.keijiro.klak.timeline.procedural-motion": "1.0.1",
@@ -18,6 +20,11 @@
     "jp.keijiro.noiseshader": "1.0.0",
     "jp.keijiro.pugrad": "1.0.0",
     "jp.keijiro.test-assets": "1.0.1",
-    "com.unity.modules.jsonserialize": "1.0.0"
+    "com.unity.modules.ai": "1.0.0",
+    "com.unity.modules.androidjni": "1.0.0",
+    "com.unity.modules.assetbundle": "1.0.0",
+    "com.unity.modules.jsonserialize": "1.0.0",
+    "com.unity.modules.physics2d": "1.0.0",
+    "com.unity.modules.terrain": "1.0.0"
   }
 }
