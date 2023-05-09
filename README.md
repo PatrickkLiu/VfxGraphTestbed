@@ -1,10 +1,12 @@
-VfxGraphTestbed
+Keijiro's VfxGraphTestbed
+Lot's of particle strip 
+
+I used the wave tide particle and trails for InExChange
 ===============
 
 ![gif](https://i.imgur.com/Kaz3SK0.gif)
 ![gif](https://i.imgur.com/9nGmBcu.gif)
 
-This repository is where I try several VFX ideas with Unity Visual Effect Graph (VFX Graph).
 
 System Requirements
 -------------------
